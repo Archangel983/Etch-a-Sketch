@@ -1,0 +1,21 @@
+body {
+    background-color: #9aced6;
+}
+
+#header {
+    text-align: center;
+}
+
+h2 {
+    font-size: 50px;
+}
+
+#button {
+    background-color: #edd9a1;
+    padding: 10px 50px 10px 50px;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 16px;
+    border: solid black 3px;
+    margin:20px;
+}
